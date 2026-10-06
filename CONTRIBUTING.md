@@ -25,3 +25,4 @@ Notes and usage details for clawshield-public.
 - clarify the setup steps
 - link the usage section
 - add a note about the defaults
+- add a note about the defaults
